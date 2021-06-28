@@ -16,7 +16,7 @@ This is a source code of a location synthesizer for a location trace anonymizati
 
 Install Eigen 3.3.7, Generalized Constant Expression Math, and StatsLib (see cpp/README.md).
 
-Install PPMTF (C++) as follows.
+Install our source code (C++) as follows.
 ```
 $ cd cpp/
 $ make
