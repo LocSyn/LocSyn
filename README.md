@@ -1,5 +1,5 @@
 # Location Synthesizer for Anonymization Contests
-This is a source code of a location synthesizer a location trace anonymization contest. The location synthesizer is implemented with Python. A training algorithm is also implemented with C++, which is much faster than the Python version. This software is released under the MIT License.
+This is a source code of a location synthesizer a location trace anonymization contest. The location synthesizer is implemented with Python. A training and synthetic trace generation algorithm is also implemented with C++, which is much faster than the Python version. This software is released under the MIT License.
 
 # Directory Structure
 - cpp/			&emsp;C++ codes (put the required files under this directory; see cpp/README.md).
